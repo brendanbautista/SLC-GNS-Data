@@ -13,3 +13,4 @@ Left Outer Join export.shpmnt_hdr s
 WHERE SVC.SVC_PROVIDER_ID = 'G0431613'
 AND SVC.Date_Create > 123120100000000000
 AND SVC.TRAN_UPDATE not in ('130')
+AND S.PORT_ORIGIN not in ('LAS')
