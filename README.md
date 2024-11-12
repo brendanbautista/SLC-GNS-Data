@@ -1,8 +1,7 @@
 # SLC-GNS-Data
 
-As discussed, can you please get me YTD data for all SLC to LAX ICT files per the below. I want to understand the % of TCS, AEX and OEX files moving on GNS each day. 
-
-Let me know if you need additional information. I’m hoping to have this ahead of a conversation I’m having on Thursday. Let me know if you need more time. 
+YTD data for all SLC to LAX ICT files per the below. Want to understand the % of TCS, AEX and OEX files moving on GNS each day. 
+- Exclude 'LAS' origin, only 'SLC'
 
 11/11 Update:
 Can you please pull YTD files for SLC only? Need to understand the following:
